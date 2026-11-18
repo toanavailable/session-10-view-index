@@ -11,3 +11,4 @@ Tổng hợp bài tập và mindmap của Session 10. Mỗi bài là một thư 
 - [`che-giau-du-lieu-view/`](che-giau-du-lieu-view/) — Kiến trúc Che giấu Dữ liệu (Data Masking) bằng View
 - [`er-dashboard-view/`](er-dashboard-view/) — Thiết kế Bảng điều khiển Cấp cứu (ER Dashboard)
 - [`explain-analyze-index/`](explain-analyze-index/) — Tối ưu hóa truy vấn với Index và EXPLAIN ANALYZE
+- [`view-products/`](view-products/) — Tạo và quản trị View trên bảng Products
