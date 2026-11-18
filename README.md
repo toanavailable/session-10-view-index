@@ -7,3 +7,4 @@ Tổng hợp bài tập và mindmap của Session 10. Mỗi bài là một thư 
 - [`toi-uu-tra-cuu-ho-so/`](toi-uu-tra-cuu-ho-so/) — Tối ưu hiệu năng tra cứu hồ sơ
 - [`bao-mat-view-benh-nhan/`](bao-mat-view-benh-nhan/) — Bảo mật thông tin qua tầng View
 - [`bao-cao-tai-chinh-khoa/`](bao-cao-tai-chinh-khoa/) — Tổng hợp Báo cáo Tài chính Khoa
+- [`toi-uu-kho-duoc-pham/`](toi-uu-kho-duoc-pham/) — Tối ưu hóa Truy xuất Kho Dược phẩm
