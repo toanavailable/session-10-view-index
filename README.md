@@ -4,3 +4,4 @@ Tổng hợp bài tập và mindmap của Session 10. Mỗi bài là một thư 
 
 ## Danh sách bài
 
+- [`toi-uu-tra-cuu-ho-so/`](toi-uu-tra-cuu-ho-so/) — Tối ưu hiệu năng tra cứu hồ sơ
