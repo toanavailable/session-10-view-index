@@ -8,3 +8,4 @@ Tổng hợp bài tập và mindmap của Session 10. Mỗi bài là một thư 
 - [`bao-mat-view-benh-nhan/`](bao-mat-view-benh-nhan/) — Bảo mật thông tin qua tầng View
 - [`bao-cao-tai-chinh-khoa/`](bao-cao-tai-chinh-khoa/) — Tổng hợp Báo cáo Tài chính Khoa
 - [`toi-uu-kho-duoc-pham/`](toi-uu-kho-duoc-pham/) — Tối ưu hóa Truy xuất Kho Dược phẩm
+- [`che-giau-du-lieu-view/`](che-giau-du-lieu-view/) — Kiến trúc Che giấu Dữ liệu (Data Masking) bằng View
