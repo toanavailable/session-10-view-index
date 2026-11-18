@@ -10,3 +10,4 @@ Tổng hợp bài tập và mindmap của Session 10. Mỗi bài là một thư 
 - [`toi-uu-kho-duoc-pham/`](toi-uu-kho-duoc-pham/) — Tối ưu hóa Truy xuất Kho Dược phẩm
 - [`che-giau-du-lieu-view/`](che-giau-du-lieu-view/) — Kiến trúc Che giấu Dữ liệu (Data Masking) bằng View
 - [`er-dashboard-view/`](er-dashboard-view/) — Thiết kế Bảng điều khiển Cấp cứu (ER Dashboard)
+- [`explain-analyze-index/`](explain-analyze-index/) — Tối ưu hóa truy vấn với Index và EXPLAIN ANALYZE
